@@ -11,5 +11,5 @@ Workshop to use good practices in software development: testing, ci and measurem
 
 Authors:
 
-- Carlos Lopez Nozal
-- Jesus Alonso Abad
+- Alberto Lanchares Diez
+- Borja Blanco Porres
