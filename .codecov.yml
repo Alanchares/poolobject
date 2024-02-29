@@ -1,3 +1,5 @@
+codecov:
+token: b12f687e-5b18-444b-8f0b-2449c24d90e6
 coverage:
   round: up
   range: 0..100
